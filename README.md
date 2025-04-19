@@ -46,3 +46,11 @@
   - Train a DQN model for RL-based next-step prediction.
   - Add a real Hugging Face model for NLP summarization in the backend.
   - Enhance the frontend with more features (e.g., patient history, doctor recommendations).
+
+  - ![image](https://github.com/user-attachments/assets/57856e5d-0d92-4996-876d-09803bfd6fd8)
+  - ![image](https://github.com/user-attachments/assets/f224de47-d4d5-4607-912b-d2524af5953f)
+  - ![image](https://github.com/user-attachments/assets/4a302724-6963-44ca-a3b7-c721dfed5eb9)
+  - ![image](https://github.com/user-attachments/assets/baa8fde4-8580-4608-9e31-41f007eb8451)
+
+
+
