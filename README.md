@@ -10,6 +10,15 @@
   - `Dockerfile`: Dockerfile for the backend.
   - `frontend/Dockerfile`: Dockerfile for the frontend.
   - `docker-compose.yml`: Docker Compose configuration to run both services.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  ![Screenshot 2025-04-10 195344](https://github.com/user-attachments/assets/d14b231b-8c46-41bb-9312-42ac715be770)
 
 
