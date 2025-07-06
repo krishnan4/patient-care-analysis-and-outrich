@@ -1,4 +1,4 @@
-  This project implements a patient care analysis system based on the provided flow diagram, including synthetic data generation, data preprocessing, model training, semantic network, RL model, NLP summarization, backend, frontend, and deployment.
+This project implements a patient care analysis system based on the provided flow diagram, including synthetic data generation, data preprocessing, model training, semantic network, RL model, NLP summarization, backend, frontend, and deployment.
 
   ## Prerequisites
   - Docker and Docker Compose installed on your machine.
